@@ -1,0 +1,11 @@
+C:\Users\toroa\Documents\Maquina_Expendedora\Maquina_Expendedora\bin\Debug\Maquina_Expendedora.exe.config
+C:\Users\toroa\Documents\Maquina_Expendedora\Maquina_Expendedora\bin\Debug\Maquina_Expendedora.exe
+C:\Users\toroa\Documents\Maquina_Expendedora\Maquina_Expendedora\bin\Debug\Maquina_Expendedora.pdb
+C:\Users\toroa\Documents\Maquina_Expendedora\Maquina_Expendedora\bin\Debug\Modelss.dll
+C:\Users\toroa\Documents\Maquina_Expendedora\Maquina_Expendedora\bin\Debug\Modelss.pdb
+C:\Users\toroa\Documents\Maquina_Expendedora\Maquina_Expendedora\obj\Debug\Maquina_Expendedora.csproj.AssemblyReference.cache
+C:\Users\toroa\Documents\Maquina_Expendedora\Maquina_Expendedora\obj\Debug\Maquina_Expendedora.csproj.SuggestedBindingRedirects.cache
+C:\Users\toroa\Documents\Maquina_Expendedora\Maquina_Expendedora\obj\Debug\Maquina_Expendedora.csproj.CoreCompileInputs.cache
+C:\Users\toroa\Documents\Maquina_Expendedora\Maquina_Expendedora\obj\Debug\Maquina_Expendedora.csproj.CopyComplete
+C:\Users\toroa\Documents\Maquina_Expendedora\Maquina_Expendedora\obj\Debug\Maquina_Expendedora.exe
+C:\Users\toroa\Documents\Maquina_Expendedora\Maquina_Expendedora\obj\Debug\Maquina_Expendedora.pdb

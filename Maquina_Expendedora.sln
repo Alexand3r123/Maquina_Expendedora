@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32407.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Maquina_Expendedora", "Maquina_Expendedora\Maquina_Expendedora.csproj", "{F763A05F-107A-403A-B494-E15D229C1943}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modelss", "Modelss\Modelss.csproj", "{87A4B214-81A0-4EFE-806F-9BDD29C0478B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F763A05F-107A-403A-B494-E15D229C1943}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F763A05F-107A-403A-B494-E15D229C1943}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F763A05F-107A-403A-B494-E15D229C1943}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F763A05F-107A-403A-B494-E15D229C1943}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87A4B214-81A0-4EFE-806F-9BDD29C0478B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87A4B214-81A0-4EFE-806F-9BDD29C0478B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87A4B214-81A0-4EFE-806F-9BDD29C0478B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87A4B214-81A0-4EFE-806F-9BDD29C0478B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C9530324-F9E2-48F2-A0DB-96BE5C6ED778}
+	EndGlobalSection
+EndGlobal

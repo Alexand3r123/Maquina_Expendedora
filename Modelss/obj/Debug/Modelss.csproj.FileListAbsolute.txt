@@ -1,0 +1,6 @@
+C:\Users\toroa\Documents\Maquina_Expendedora\Modelss\bin\Debug\Modelss.dll
+C:\Users\toroa\Documents\Maquina_Expendedora\Modelss\bin\Debug\Modelss.pdb
+C:\Users\toroa\Documents\Maquina_Expendedora\Modelss\obj\Debug\Modelss.csproj.AssemblyReference.cache
+C:\Users\toroa\Documents\Maquina_Expendedora\Modelss\obj\Debug\Modelss.csproj.CoreCompileInputs.cache
+C:\Users\toroa\Documents\Maquina_Expendedora\Modelss\obj\Debug\Modelss.dll
+C:\Users\toroa\Documents\Maquina_Expendedora\Modelss\obj\Debug\Modelss.pdb
